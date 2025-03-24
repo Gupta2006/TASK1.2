@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Changes in the main
+Changes in the file
+>>>>>>> newbranch
